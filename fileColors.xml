@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SharedFileColors">
+    <fileColor scope="views" color="053f00" />
+    <fileColor scope="layouts" color="043400" />
+    <fileColor scope="controlers" color="000029" />
+    <fileColor scope="configs" color="Orange" />
+    <fileColor scope="models" color="Rose" />
+    <fileColor scope="css" color="Blue" />
+    <fileColor scope="js" color="Violet" />
+    <fileColor scope="widgets" color="006978" />
+  </component>
+</project>
+
